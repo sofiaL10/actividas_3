@@ -36,11 +36,11 @@ rectangulo = Rectangulo(punto_inferior, punto_superior)
 
 perimetro = rectangulo.perimetro()
 area = rectangulo.area()
-print(f"Perímetro del rectángulo: ", perimetro)
-print("Área del rectángulo: ", area)
+print("el perímetro del rectángulo es: ", perimetro)
+print("el area del rectángulo es: ", area)
 
 
 if rectangulo.es_cuadrado():
-    print("El rectángulo es un cuadrado.")
+    print("El rectángulo es un cuadrado")
 else:
-    print("El rectángulo no es un cuadrado.")
+    print("El rectángulo no es un cuadrado")

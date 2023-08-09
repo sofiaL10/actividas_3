@@ -4,7 +4,7 @@ class Vehiculo:
         self.kilometraje: float = kilometraje
 
 if __name__ == "__main__":
-    v: Vehiculo = Vehiculo( 160, 10000)
+    v: Vehiculo = Vehiculo(160, 10000)
 
 print(v.velocidad_maxima)
 print(v.kilometraje)

@@ -7,7 +7,7 @@ class Punto:
         self.y = y
 
     def mostrar(self):
-        print(f"Coordenadas del punto: ({self.x}, {self.y})")
+        print("Coordenadas del punto: ", self.x, self.y)
 
     def mover(self, nuevo_x, nuevo_y):
         self.x = nuevo_x

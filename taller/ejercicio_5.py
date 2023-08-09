@@ -32,8 +32,8 @@ if __name__ == "__main__":
 area = circulo.calcular_area()
 perimetro = circulo.calcular_perimetro()
 
-print("Área del círculo: ", area)
-print("Perímetro del círculo: ", perimetro)
+print("el area del círculo es: ", area)
+print("el perímetro del círculo: ", perimetro)
 
 
 punto_prueba = Punto(6, 5)

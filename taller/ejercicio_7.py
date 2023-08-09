@@ -5,7 +5,7 @@ class CuentaBancaria:
         self.balance = balance
 
 if __name__ == "__main__":
-    numero_cuenta = "758393842"
+    numero_cuenta = "958903402"
     propietarios = ["sara", "laura", "liliana"]
     balance = 1000
 
