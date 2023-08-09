@@ -6,7 +6,7 @@ class CuentaBancaria:
 
 if __name__ == "__main__":
     numero_cuenta = "958903402"
-    propietarios = ["sara", "laura", "liliana"]
+    propietarios = ["sandra", "laura", "liliana"]
     balance = 1000
 
 cuenta = CuentaBancaria(numero_cuenta, propietarios, balance)
